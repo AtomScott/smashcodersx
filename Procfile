@@ -1,1 +1,1 @@
-web: gunicorn backend.backend.wsgi --config gunicorn.conf.py --log-file -
+web: cd backend && gunicorn backend.wsgi --config ../gunicorn.conf.py 
