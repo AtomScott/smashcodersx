@@ -38,7 +38,7 @@ slack-utils==0.2.1
 slackclient==2.5.0
 soupsieve==2.0
 sqlparse==0.3.1
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.8
 whitenoise==5.0.1
 yarl==1.4.2
